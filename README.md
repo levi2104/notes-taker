@@ -16,6 +16,7 @@ A simple task/notes manager built using **Node.js**, **Express**, **EJS**, and *
 
 ## 📁 Project Structure
 
+```
 notes-taker/
 ├── files/ # Stores all the notes as .txt files
 ├── public/
@@ -28,6 +29,7 @@ notes-taker/
 ├── index.js # Main Express server
 ├── package.json
 └── README.md # This file
+```
 
 
 ---
